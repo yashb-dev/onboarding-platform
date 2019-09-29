@@ -1,2 +1,1 @@
 # onboarding-platform
-# onboarding-platform
